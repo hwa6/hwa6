@@ -1,4 +1,4 @@
-Hi! I'm Henry, and I'm a senior computer engineering major at Lehigh Univeristy. I love to code, and have aspirations towards the software engineering field.
+Hi! I'm Henry, and I'm a senior computer engineering major at Lehigh University. I love to code, and have aspirations towards the software engineering field.
 
 Here you can find my open source projects, mostly stuff I do for fun on the side as well as projects I have done for undergraduate research.
 
